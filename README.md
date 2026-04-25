@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Vashishtha Patel
 
 # 💫 About Me:
-Computer Engineering Student | Java Learner  <br><br>I'm passionate about backend development and solving real-world problems using Java.<br><br>🔹 Core Java & OOPs  <br>🔹 JDBC, Servlets, JSP  <br>🔹 MySQL & Database Design  <br>🔹 Basics of Spring Framework  <br><br>🚀 Goals  <br>- Become a job-ready Java Developer  <br>- Master Spring Boot & REST APIs  <br><br>📌 Fun Fact: I enjoy turning logic into clean code 😄<br>
+Computer Engineer | Java Developer  <br><br>I'm passionate about backend development and solving real-world problems using Java.<br><br>🔹 Core Java & OOPs  <br>🔹 JDBC, Servlets, JSP  <br>🔹 MySQL & Database Design  <br>🔹 Basics of Spring Framework  <br><br>🚀 Goals  <br>- Become a job-ready Java Developer  <br>- Master Spring Boot & REST APIs  <br><br>📌 Fun Fact: I enjoy turning logic into clean code 😄<br>
 
 
 ## 🌐 Socials:
