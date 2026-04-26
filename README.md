@@ -1,6 +1,37 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:166534&height=240&section=header&text=Vashishtha%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Java%20Developer&descAlignY=58&descSize=22"/>
+  <!-- Animated Header Banner -->
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E293B,50:0EA5E9,75:16A34A,100:22C55E&text=Vashishtha%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20|%20Java%20Developer%20"
+    alt="header"
+  />
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Learner;Backend+Developer;Always+Building+Cool+Projects" />
+</p>
+
+<!-- Social Badges -->
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
 
 
 <h1 align="center">Hi there 👋 I'm Vashishtha Patel</h1>
