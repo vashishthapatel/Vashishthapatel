@@ -1,14 +1,4 @@
 
-<div align="center">
-
-# 🚀 Vashishtha Patel
-
-### 💻 Computer Engineer | ☕ Java Developer | 🌐 Full Stack Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;Backend+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things"/>
-
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:166534&height=240&section=header&text=Vashishtha%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Java%20Developer&descAlignY=58&descSize=22"/>
 </p>
