@@ -92,7 +92,7 @@ I'm passionate about backend development and solving real-world problems using J
 
 ## 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
 ## 🌐 Frontend Development
