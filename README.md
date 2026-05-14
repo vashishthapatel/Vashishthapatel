@@ -42,7 +42,7 @@ Computer Engineer | Java Developer 🚀
 
 ---
 
-# 💫 About Me:
+# 💫 About Me
 
 Computer Engineer | Java Developer  
 
